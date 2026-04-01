@@ -2,7 +2,7 @@ function App()
 {
   return (<div>
     <h1>Hello World!</h1>
-    <p>This is the second React App</p>
+    <p>Pushed into git</p>
   </div>)
 }
 
